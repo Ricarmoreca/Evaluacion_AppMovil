@@ -70,7 +70,7 @@ object DummyData {
             calificacion = 4.4,
             descripcionCorta = "Tablet de 11 pulgadas con soporte para lápiz óptico y pantalla fluida.",
             descripcionLarga = "La Tablet Nebula Vision es la herramienta perfecta tanto para el estudio como para el entretenimiento. Cuenta con un procesador optimizado para multitarea, cuatro altavoces estéreo de alta fidelidad con Dolby Atmos y compatibilidad con Stylus de baja latencia para dibujar o tomar notas con precisión natural.",
-            imagenUrl = "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?w=500&auto=format&fit=crop&q=60",
+            imagenUrl = "https://m.media-amazon.com/images/I/61BS33dCsoL._AC_UF894,1000_QL80_.jpg",
             categoria = "Tablets"
         )
     )

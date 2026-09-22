@@ -95,7 +95,7 @@ fun GadgetHomeScreen(
                 shape = MaterialTheme.shapes.medium
             ) {
                 Text(
-                    text = "📦  Ver Catálogo",
+                    text = "Ver Catálogo",
                     style = MaterialTheme.typography.titleMedium.copy(fontWeight = FontWeight.Bold)
                 )
             }
